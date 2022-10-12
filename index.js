@@ -1,5 +1,5 @@
 const hoo= () => {
-    console.log("welcome to node")
+    console.log("Hello Node.js!")
 }
 
 hoo();
